@@ -32,9 +32,11 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 
 ## Additional Notes
 - I don't have ANSI layout GMMK Pro so I don't have any idea about QMK ANSI layout configuration.
+- For all documentations about go to [QMK Firmware][qmk-docs]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [qmk-config]: <https://config.qmk.fm/>
    [qmk-toolbox]: <https://github.com/qmk/qmk_toolbox/releases>
+   [qmk-docs]: <https://docs.qmk.fm/#/>
    [git-repo-url]: <https://github.com/tunahanaltintop/GMMKPro-QMK-ISO-TR>
