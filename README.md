@@ -32,6 +32,8 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 
 ## Additional Notes
 - I don't have ANSI layout GMMK Pro so I don't have any idea about QMK ANSI layout configuration.
+- I don't have any trouble with rotary knob and RGB lighting. Everything works as well.
+- You can view ANSI layout video on Youtube account which belongs to @yozak. [How to Install QMK on your GMMK Pro][youtube-yozak]
 - For all documentations about go to [QMK Firmware][qmk-docs]
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
@@ -39,4 +41,4 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
    [qmk-config]: <https://config.qmk.fm/>
    [qmk-toolbox]: <https://github.com/qmk/qmk_toolbox/releases>
    [qmk-docs]: <https://docs.qmk.fm/#/>
-   [git-repo-url]: <https://github.com/tunahanaltintop/GMMKPro-QMK-ISO-TR>
+   [youtube-yozak]: <https://www.youtube.com/watch?v=MxQeQoUHvEY>
