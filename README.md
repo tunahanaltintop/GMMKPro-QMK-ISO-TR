@@ -35,6 +35,11 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - I don't have any trouble with rotary knob and RGB lighting. Everything works as well.
 - You can view ANSI layout video on Youtube account which belongs to @yozak. [How to Install QMK on your GMMK Pro][youtube-yozak]
 - For all documentations about go to [QMK Firmware][qmk-docs]
+- GMMK Pro default stabilizers are GOAT (Greatest of All Time). The stabs are factory lubed much and have some rattle problems. So for GMMK Pro stabilizers guide and aluminum plate filing configuration then go to @ZinanPoh [video][youtube-ZinanPoh] which is great for ANSI layout. Good news about my ISO layout GMMK Pro there is no need extra modification for Durock V2. It just fit exactly.
+- For GMMK Pro Full Review then I advice to watch videos on Youtube accounts which belongs to @Romsicle [GMMK Pro Full Review - Everything You Need to Know in 13 Minutes][youtube-Romsicle] and @IOSam [GMMK Pro: The ultimate guide (in-depth review + modding tutorial)][youtube-IOSam].
+- I used Gateron Brown switches on my GMMK Pro which are cheap and durable. You must buy south facing (SMD-LED) switches for GMMK Pro. I preferred Glorious Gateron Brown 120x Switch pack. You can watch for lubing Gateron Brown Switch video on Youtube account which belongs to @NiftyKeyboards [RUMI61 Lubed Gateron Brown, Typing Sound | Chill Music][youtube-NiftyKeyboards]
+
+
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -42,3 +47,9 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
    [qmk-toolbox]: <https://github.com/qmk/qmk_toolbox/releases>
    [qmk-docs]: <https://docs.qmk.fm/#/>
    [youtube-yozak]: <https://www.youtube.com/watch?v=MxQeQoUHvEY>
+   [youtube-ZinanPoh]: <https://www.youtube.com/watch?v=qkyl5c4EdXg>
+   [youtube-Romsicle]: <https://www.youtube.com/watch?v=qiXV0DODAZ0>
+   [youtube-IOSam]: <https://www.youtube.com/watch?v=J_axv-TkjkE>
+   [youtube-NiftyKeyboards]: <https://www.youtube.com/watch?v=wWjsXOUdQpE>
+
+   
