@@ -6,7 +6,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - Go to [QMK Configuratior][qmk-config]
 - Click the "Upload a QMK JSON File"
 - Select the downloaded before "my-keymap.json" file
-- You are gonna see the layout.
+- You are gonna see the layout. Additionally you are gonna see gmmk/pro/rev1/iso value in keyboard combobox. The value is rev1 because my version is rev1 and it's very important. If you choose rev2 for rev1 version you are probably stuck.
 
 ## About the Layout
 - First of all this layout is for MacOS and Turkish ISO keyboard layout format.
@@ -19,7 +19,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 
 ## Compile Keymap and Download Firmware
 - Click the Compile button.
-- After the baking image disappear then download firmware button is clickable. Then click it and download firmware. The downloaded firmware name will be "gmmk_pro_iso_my-keymap.bin".
+- After the baking image disappear then download firmware button is clickable. Then click it and download firmware. The downloaded firmware name will be "gmmk_pro_rev1_iso_my-keymap.bin".
 
 ## How to Flash Firmware to GMMK Pro?
 - Go to [QMK Toolbox][qmk-toolbox]
