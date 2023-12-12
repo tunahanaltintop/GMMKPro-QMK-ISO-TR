@@ -26,7 +26,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - From the latest section download "QMK.Toolbox.app.zip" file.
 - Unzip it and run. If MacOS security check fail then give permission to it from preferences.
 - Select the downloaded before "gmmk_pro_iso_my-keymap.bin" file
-- Unplug cable of GMMK Pro and while holding Space+B key then plug again. This will connect your keyboard on bootloader mode. After that you will see the yellow colored device connected command.
+- Unplug cable of GMMK Pro and while holding Space+B (if you flashed it to QMK before then the shortcut is F+Backspace) key then plug again. This will connect your keyboard on bootloader mode. After that you will see the yellow colored device connected command.
 - Click the Flash button. After it complete then it is ready for use your GMMK Pro.
 - If you want to return original then press the FN+Backspace.
 
@@ -38,9 +38,9 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - GMMK Pro default stabilizers are GOAT (Greatest of All Time). The stabs are factory lubed much and have some rattle problems. So for GMMK Pro stabilizers guide and aluminum plate filing configuration then go to @ZinanPoh [GMMK Pro Stabilizers Guide and Aluminum Plate Filing (GOAT, C3, Zeal, GMK, Durock V2)
 ][youtube-ZinanPoh] video which is great for ANSI layout. Good news about my ISO layout GMMK Pro there is no need extra modification for Durock V2. It just fit exactly.
 - For GMMK Pro Full Review then I advice to watch videos on Youtube accounts which belongs to @Romsicle [GMMK Pro Full Review - Everything You Need to Know in 13 Minutes][youtube-Romsicle] and @IOSam [GMMK Pro: The ultimate guide (in-depth review + modding tutorial)][youtube-IOSam].
-- I used Gateron Brown switches on my GMMK Pro which are cheap and durable. You must buy south facing (SMD-LED) switches for GMMK Pro. I preferred Glorious Gateron Brown 120x Switch pack. You can watch for lubing Gateron Brown Switch video on Youtube account which belongs to @NiftyKeyboards [RUMI61 Lubed Gateron Brown, Typing Sound | Chill Music][youtube-NiftyKeyboards]
-
-
+- I preferred [Akko V3 Pro Cream Yellow][akko-v3-pro-cream-yellow] switches on my GMMK Pro which are durable and in appropriate price. This switches are in linear form. I lubed them. You must buy south facing (SMD-LED) switches for GMMK Pro. You can watch for lubing switches video on Youtube account which belongs to @NiftyKeyboards [RUMI61 Lubed Gateron Brown, Typing Sound | Chill Music][youtube-NiftyKeyboards]
+- I preferred [Ranked Premium Blanks PBT Keycaps][ranked-blank-pbt-9009] on my GMMK Pro which are in appropriate price and have thock sound. This keycaps have ANSI+ISO layaout support and which are 139 keys and cherry profile. It has also 9009 retro color which is super cool :)
+- Additionally, you can download the MacOS ISO Turkish (TR) layout legend design for your cherry profile keycaps from the "MacOS_ISO_TR.pdf" file. You can print this design in A4 format. You can check out [I built a weird keyboard... (custom keycap symbols)][youtube-yohon] video for water slide decal.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -52,5 +52,8 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
    [youtube-Romsicle]: <https://www.youtube.com/watch?v=qiXV0DODAZ0>
    [youtube-IOSam]: <https://www.youtube.com/watch?v=J_axv-TkjkE>
    [youtube-NiftyKeyboards]: <https://www.youtube.com/watch?v=wWjsXOUdQpE>
+   [youtube-yohon]: <[https://www.youtube.com/watch?v=wWjsXOUdQpE](https://www.youtube.com/watch?v=bnU0FQforaw)>
+   [akko-v3-pro-cream-yellow]: <https://en.akkogear.com/product/akko-v3-cream-yellow-pro-switch-45pcs>
+   [ranked-blank-pbt-9009]: <[https://en.akkogear.com/product/akko-v3-cream-yellow-pro-switch-45pcs](https://eu.ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797)https://eu.ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797>
 
    
