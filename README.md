@@ -52,8 +52,8 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
    [youtube-Romsicle]: <https://www.youtube.com/watch?v=qiXV0DODAZ0>
    [youtube-IOSam]: <https://www.youtube.com/watch?v=J_axv-TkjkE>
    [youtube-NiftyKeyboards]: <https://www.youtube.com/watch?v=wWjsXOUdQpE>
-   [youtube-yohon]: <[https://www.youtube.com/watch?v=wWjsXOUdQpE](https://www.youtube.com/watch?v=bnU0FQforaw)>
+   [youtube-yohon]: <https://www.youtube.com/watch?v=bnU0FQforaw>
    [akko-v3-pro-cream-yellow]: <https://en.akkogear.com/product/akko-v3-cream-yellow-pro-switch-45pcs>
-   [ranked-blank-pbt-9009]: <[https://en.akkogear.com/product/akko-v3-cream-yellow-pro-switch-45pcs](https://eu.ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797)https://eu.ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797>
+   [ranked-blank-pbt-9009]: <https://ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797>
 
    
