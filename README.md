@@ -43,9 +43,9 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - Additionally, you can download the MacOS ISO Turkish (TR) layout legend design (which is with my IntellijIdea keymap configuration icons) for your cherry profile keycaps from the "[mac-iso-TR.pdf](mac-iso-TR.pdf)" file. You can print this design in A4 format. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal.
 
 ## My End Game Design
-- ![](img1.png)
-- ![](img2.png)
-- ![](mov.mov)
+![](img1.png)
+![](img2.png)
+<video src='mov.mov' width=640/>
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
