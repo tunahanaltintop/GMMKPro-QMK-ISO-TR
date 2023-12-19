@@ -2,7 +2,7 @@
 My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especially for MacOS
 
 ## How to Upload Keymap File and See the Layout?
-- Dowload the file as named "[a my-keymap.json](my-keymap.json)"
+- Dowload the file as named "[my-keymap.json](my-keymap.json)"
 - Go to [QMK Configuratior][qmk-config]
 - Click the "Upload a QMK JSON File"
 - Select the downloaded before "my-keymap.json" file
@@ -40,7 +40,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - For GMMK Pro Full Review then I advice to watch videos on Youtube accounts which belongs to @Romsicle [GMMK Pro Full Review - Everything You Need to Know in 13 Minutes][youtube-Romsicle] and @IOSam [GMMK Pro: The ultimate guide (in-depth review + modding tutorial)][youtube-IOSam].
 - I preferred [Akko V3 Pro Cream Yellow][akko-v3-pro-cream-yellow] switches on my GMMK Pro which are durable and in appropriate price. This switches are in linear form. I lubed them. You must buy south facing (SMD-LED) switches for GMMK Pro. You can watch for lubing switches video on Youtube account which belongs to @NiftyKeyboards [RUMI61 Lubed Gateron Brown, Typing Sound | Chill Music][youtube-NiftyKeyboards]
 - I preferred [Ranked Premium Blanks PBT Keycaps][ranked-blank-pbt-9009] on my GMMK Pro which are in appropriate price and have thock sound. This keycaps have ANSI+ISO layaout support and which are 139 keys and cherry profile. It has also 9009 retro color which is super cool :)
-- Additionally, you can download the MacOS ISO Turkish (TR) layout legend design (which is with my IntellijIdea keymap configuration icons) for your cherry profile keycaps from the "MacOS_ISO_TR.pdf" file. You can print this design in A4 format. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal.
+- Additionally, you can download the MacOS ISO Turkish (TR) layout legend design (which is with my IntellijIdea keymap configuration icons) for your cherry profile keycaps from the "[MacOS_ISO_TR.pdf](MacOS_ISO_TR.pdf)" file. You can print this design in A4 format. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal.
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
