@@ -2,7 +2,7 @@
 My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especially for MacOS
 
 ## How to Upload Keymap File and See the Layout?
-- Dowload the file as named "my-keymap.json"
+- Dowload the file as named "![](my-keymap.json)"
 - Go to [QMK Configuratior][qmk-config]
 - Click the "Upload a QMK JSON File"
 - Select the downloaded before "my-keymap.json" file
