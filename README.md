@@ -40,7 +40,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 - For GMMK Pro Full Review then I advice to watch videos on Youtube accounts which belongs to @Romsicle [GMMK Pro Full Review - Everything You Need to Know in 13 Minutes][youtube-Romsicle] and @IOSam [GMMK Pro: The ultimate guide (in-depth review + modding tutorial)][youtube-IOSam].
 - I preferred [Akko V3 Pro Cream Yellow][akko-v3-pro-cream-yellow] switches on my GMMK Pro which are durable and in appropriate price. This switches are in linear form. I lubed them. You must buy south facing (SMD-LED) switches for GMMK Pro. You can watch for lubing switches video on Youtube account which belongs to @NiftyKeyboards [RUMI61 Lubed Gateron Brown, Typing Sound | Chill Music][youtube-NiftyKeyboards]
 - I preferred [Ranked Premium Blanks PBT Keycaps][ranked-blank-pbt-9009] on my GMMK Pro which are in appropriate price and have thock sound. This keycaps have ANSI+ISO layaout support and which are 139 keys and cherry profile. It has also 9009 retro color which is super cool :)
-- Additionally, you can download the MacOS ISO Turkish (TR) layout legend design (which is with my IntellijIdea keymap configuration icons) for your cherry profile keycaps from the "[mac-iso-TR.pdf](mac-iso-TR.pdf)" file. You can print this design in A4 format. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal.
+- Additionally, you can download the legend design of MacOS ISO Turkish (TR) layout (which is with my IntelliJIDEA keymap configuration icons) for your cherry profile keycaps from the "[gmmk-pro-mac-iso-tr.pdf](gmmk-pro-mac-iso-tr.pdf)" file. This design is proper for only GMMK Pro ISO Layout. You can print this design in A4 format to your water slide decal paper and apply to your keycaps. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal tutorial. And you can check the [IntelliJIDEA Icons][intellijidea-icons] and [Framework7 Line Icons][framework7-line-icons] which i use in my design.
 
 ## My End Game Design
 ![](img1.png)
@@ -59,5 +59,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
    [youtube-yohon]: <https://www.youtube.com/watch?v=bnU0FQforaw>
    [akko-v3-pro-cream-yellow]: <https://en.akkogear.com/product/akko-v3-cream-yellow-pro-switch-45pcs>
    [ranked-blank-pbt-9009]: <https://ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797>
+   [intellijidea-icons]: <https://jetbrains.design/intellij/resources/icons_list/>
+   [framework7-line-icons]: <https://www.svgrepo.com/collection/framework7-line-icons/9>
 
    
