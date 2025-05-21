@@ -39,12 +39,18 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 ][youtube-ZinanPoh] video which is great for ANSI layout. Good news about my ISO layout GMMK Pro there is no need extra modification for Durock V2. It just fit exactly.
 - For GMMK Pro Full Review then I advice to watch videos on Youtube accounts which belongs to @Romsicle [GMMK Pro Full Review - Everything You Need to Know in 13 Minutes][youtube-Romsicle] and @IOSam [GMMK Pro: The ultimate guide (in-depth review + modding tutorial)][youtube-IOSam].
 - I preferred [Akko V3 Pro Cream Yellow][akko-v3-pro-cream-yellow] switches on my GMMK Pro which are durable and in appropriate price. This switches are in linear form. I lubed them. You must buy south facing (SMD-LED) switches for GMMK Pro. You can watch for lubing switches video on Youtube account which belongs to @NiftyKeyboards [RUMI61 Lubed Gateron Brown, Typing Sound | Chill Music][youtube-NiftyKeyboards]
-- I preferred [Ranked Premium Blanks PBT Keycaps][ranked-blank-pbt-9009] on my GMMK Pro which are in appropriate price and have thock sound. This keycaps have ANSI+ISO layaout support and which are 139 keys and cherry profile. It has also 9009 retro color which is super cool :)
-- Additionally, you can download my legend design of MacOS ISO Turkish (TR) layout (which name is Ankara) (which is with my IntelliJIDEA keymap configuration icons) for your cherry profile keycaps from the "[gmmk-pro-mac-iso-tr.pdf](gmmk-pro-mac-iso-tr.pdf)" file. This design is proper for only GMMK Pro ISO Layout. You can print this design in A4 format to your water slide decal paper or self transparent plastic sticker and apply to your keycaps. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal tutorial. And you can check the [IntelliJIDEA Icons][intellijidea-icons] and [Framework7 Line Icons][framework7-line-icons] which i use in my design.
+- (Not using any more) I preferred [Ranked Premium Blanks PBT Keycaps][ranked-blank-pbt-9009] on my GMMK Pro which are in appropriate price and have thock sound. This keycaps have ANSI+ISO layaout support and which are 139 keys and cherry profile. It has also 9009 retro color which is super cool :)
+- (Not using any more) Additionally, you can download my legend design of MacOS ISO Turkish (TR) layout (which name is Ankara) (which is with my IntelliJIDEA keymap configuration icons) for your cherry profile keycaps from the "[gmmk-pro-mac-iso-tr.pdf](gmmk-pro-mac-iso-tr.pdf)" file. This design is proper for only GMMK Pro ISO Layout. You can print this design in A4 format to your water slide decal paper or self transparent plastic sticker and apply to your keycaps. You can check out [@YOHON!'s][youtube-yohon] video for water slide decal tutorial. And you can check the [IntelliJIDEA Icons][intellijidea-icons] and [Framework7 Line Icons][framework7-line-icons] which i use in my design.
+- I preferred [RK Türkçe Tuş Takımı - Ekmek][rationalkeys-ekmek] on my GMMK Pro which are in appropriate price and have thock sound. This keycaps have ANSI+ISO layaout support and which are 151 keys and cherry profile. It has Turkish keys and which is seamless. It has also retro color which is super cool :)
 
 ## My End Game Design
 ![](img1.png)
 ![](img2.png)
+
+## My Last End Game Design :)
+
+![](img2025-01)
+![](img2025-02)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
@@ -60,6 +66,7 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
    [akko-v3-pro-cream-yellow]: <https://en.akkogear.com/product/akko-v3-cream-yellow-pro-switch-45pcs>
    [ranked-blank-pbt-9009]: <https://ranked.gg/products/premium-blanks-pbt-keycaps?variant=42689385496797>
    [intellijidea-icons]: <https://jetbrains.design/intellij/resources/icons_list/>
-   [framework7-line-icons]: <https://www.svgrepo.com/collection/framework7-line-icons/9>
+   [framework7-line-icons]: <https://www.svgrepo.com/collection/framework7-line-icons/9>,
+   [rationalkeys-ekmek]: <https://rationalkeys.com.tr/tr/rk-turkce-tus-takimi---ekmek>
 
    
