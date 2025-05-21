@@ -49,8 +49,8 @@ My custom QMK keymap configuration for GMMK Pro ISO Turkish (TR) layout, especia
 
 ## My Last End Game Design :)
 
-![](img2025-01)
-![](img2025-02)
+![](img2025-01.png)
+![](img2025-02.png)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
